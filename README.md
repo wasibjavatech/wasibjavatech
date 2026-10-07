@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm Wasib Khan
+**A passionate Software Engineer || Artificial Intelligence Engineer || Kafka Admin from India**
+
+Email Me 👉 ✉️ **khanwasib81@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Java full stack & ML
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** khanwasib81@gmail.com
+- 😄 **Pronouns:** Wasib khan
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DPZfFUhnw/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wasssuuu_13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wasib-khan-a419732a6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@wasib_pathan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanwasib81@gmail.com) 
