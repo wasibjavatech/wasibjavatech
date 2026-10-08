@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Wasib Khan
+#  Hi , I'm Wasib Khan
 **A passionate Software Engineer || Artificial Intelligence Engineer || From Uttar Pradesh , India**
 
 Email Me 👉 ✉️ **khanwasib81@gmail.com** For Collaboration/Project or Anything Else. 😊😊
